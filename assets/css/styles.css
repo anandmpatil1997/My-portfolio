@@ -99,6 +99,7 @@ nav ul li {
   gap: 2.5rem;
   max-width: 68.75rem;
   margin: auto;
+ padding-top: 30px;
 }
 .hero img {
   height: 25.5rem;
@@ -133,7 +134,7 @@ body{
 .bio-text{
   font-family: 'Quicksand', sans-serif;
   font-size: 20px;
-  
+
 }
 .logo-3 h3 {
   color: #e74c3c;
